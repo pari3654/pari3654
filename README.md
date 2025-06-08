@@ -9,7 +9,6 @@
 <img src = https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white />
 <img src= https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white/>
 <img src= https://im.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white />
-<img src = https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white />
 <img src = https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white />
 <img src =https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white/>
 <img src = https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white />
