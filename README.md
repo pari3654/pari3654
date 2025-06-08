@@ -4,8 +4,8 @@
 <br/>
 🛠️ I enjoy solving challenges,  working on real-world projects, and improving my coding craft.
 
-<h3 align="left">Languages and Tools:</h3>v
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
