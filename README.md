@@ -1,6 +1,6 @@
 👋 Hi there! I'm a Computer Science Engineering student passionate about web development.
 <br/>
-🚀 I'm a second-year CSE student with hands-on experience in building full-stack web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+🚀 I'm a third-year CSE student with hands-on experience in building full-stack web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 <br/>
 🛠️ I enjoy solving challenges,  working on real-world projects, and improving my coding craft.
 
